@@ -1,0 +1,14 @@
+bycryptjs
+cloudinary 
+cors 
+express 
+mongoose 
+dotenv 
+jsonwebtoken
+multer 
+paypal-rest-sdk
+nodemon
+
+
+BACKEND:
+axios react-router-dom 
